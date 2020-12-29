@@ -85,6 +85,8 @@ const Footer = () => {
                   >
                     <Option value="en">English</Option>
                     <Option value="es">Español</Option>
+                    <Option value="sv">Swedish</Option>
+
                   </Select>
                 </S.Select>
               </Col>

@@ -38,14 +38,15 @@ const Home = () => {
         icon="graphs.svg"
       />
       <ContentBlock
-        type="right "
+        type="right"
+
         title={ThirdBlock.title}
         content={ThirdBlock.text}
         icon="product-launch.svg"
       />
 
       <ContentBlock
-        type="left "
+        type="left"
         title={FourthBlock.title}
         content={FourthBlock.text}
         icon="waving.svg"
